@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projekt_filozofia/static/css/main.ea373890.css",
+    "main.js": "/projekt_filozofia/static/js/main.43eb0142.js",
+    "static/media/img.png": "/projekt_filozofia/static/media/img.1b5b6e8c1c7cbb762b16.png",
+    "index.html": "/projekt_filozofia/index.html",
+    "main.ea373890.css.map": "/projekt_filozofia/static/css/main.ea373890.css.map",
+    "main.43eb0142.js.map": "/projekt_filozofia/static/js/main.43eb0142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea373890.css",
+    "static/js/main.43eb0142.js"
+  ]
+}
