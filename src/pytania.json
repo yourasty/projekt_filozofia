@@ -1,0 +1,98 @@
+{ "db":
+    [
+        {
+            "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+            "correct": "Nitrogen",
+            "answers": [
+                "Helium",
+                "Carbon",
+                "Hydrogen",
+                "Nitrogen"
+            ]
+        },
+        {
+            "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+            "correct": "True",
+            "answers": [
+                "False",
+                "True"
+            ]
+        },
+        {
+            "question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
+            "correct": "Kars",
+            "answers": [
+                "Kars",
+                "Erina Joestar",
+                "Santana",
+                "Wired Beck"
+            ]
+        },
+        {
+            "question": "Which survivor in Left 4 Dead sacrificed themself to save the other survivors?",
+            "correct": "Bill",
+            "answers": [
+                "Bill",
+                "Louis",
+                "Francis",
+                "Zoey"
+            ]
+        },
+        {
+            "question": "In the periodic table, Potassium&#039;s symbol is the letter K.",
+            "correct": "True",
+            "answers": [
+                "False",
+                "True"
+            ]
+        },
+        {
+            "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+            "correct": "Boomstick",
+            "answers": [
+                "Boomstick",
+                "Bloomstick",
+                "Blastbranch",
+                "2-Pump Chump"
+            ]
+        },
+        {
+            "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+            "correct": "False",
+            "answers": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "question": "Earth is located in which galaxy?",
+            "correct": "The Milky Way Galaxy",
+            "answers": [
+                "The Milky Way Galaxy",
+                "The Mars Galaxy",
+                "The Galaxy Note",
+                "The Black Hole"
+            ]
+        },
+        {
+            "question": "What is the name of the alligator in Where&#039;s My Water?",
+            "correct": "Swampy",
+            "answers": [
+                "Swampy",
+                "Cranky",
+                "Crocky",
+                "Justice"
+            ]
+        },
+        {
+            "question": "In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?",
+            "correct": "Honey Trees",
+            "answers": [
+                "Honey Trees",
+                "Trading with an NPC",
+                "Grass on Route 209",
+                "Wayward Cave"
+            ]
+        }
+    ]
+}
