@@ -72,7 +72,7 @@ function Pytanie(props: prop) {
       while (rngAnswers.length < questionNo && safety < 1000) 
       answers = rngAnswers
 
-      answers.forEach(e => { // creating JXS Button elements
+      answers.forEach(e => { // creating JSX Button elements
         odp.push(<Btn key={e + round} text={e} onClick={buttonHandler} />)
       });
     }
