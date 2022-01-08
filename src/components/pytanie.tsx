@@ -1,11 +1,12 @@
 import React, { useRef, useState } from 'react';
 import dbType from '../interface';
 import Btn from './btn';
-import img from './img/img.png'
+import img from './img/pytanie.png'
 
 type prop = {
   db: dbType[],
-  reset: VoidFunction,
+  handleStage: VoidFunction,
+  handleScore: VoidFunction,
   rounds: number
 }
 
@@ -13,19 +14,8 @@ function Pytanie(props: prop) {
 
   const [round, setRound] = useState(0)
 
-  const scoreRef = useRef(0)
-
   const db = props.db[round]
   let clicked = false
-
-  const end = () => { //Display end score and restart the quiz after ok is pressed
-    window.alert(`Your score is: ${scoreRef.current} out of ${props.rounds}`) 
-      setRound(0)
-      scoreRef.current = 0
-      props.reset()
-  }
-
-
 
   // handle the selected answer
   const buttonHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -36,11 +26,11 @@ function Pytanie(props: prop) {
     if (!clicked) { 
       clicked = true //lock the answer button
 
-      if (button.textContent !== db.correct) // show if selected answer is correct
-        button.style.backgroundColor = "red"
-      else button.style.backgroundColor = "green"
-      
-      if (button.textContent === db.correct) scoreRef.current += 1
+      if (button.textContent === db.correct) {// show if selected answer is correct
+        button.style.backgroundColor = "green"
+        props.handleScore()
+      }
+      else button.style.backgroundColor = "red"
 
       if (round < props.rounds-1) { //update round if there are still rounds to go
         setTimeout(() => { // let it sit for 1.5 sec before updating
@@ -49,8 +39,8 @@ function Pytanie(props: prop) {
         }, 1500)
       }
       else {
-        setTimeout(() => end(), 1500) // let it sit then  
-      }                               // display the end score if no rounds left to go
+        setTimeout(() => props.handleStage(), 1500) // let it sit then  
+      }                                             // change stage if no rounds left to go
     }
   };
 
