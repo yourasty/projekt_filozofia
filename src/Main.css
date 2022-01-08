@@ -87,4 +87,5 @@
   margin: 0.4vh;
   font-size: calc(5px + 2vmin);
   color: #c1c8c9;
+  cursor: pointer;
 }
