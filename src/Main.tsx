@@ -22,9 +22,9 @@ function Main() {
   const handleScore = () => { // score count 
     scoreRef.current++
   };
-
+  let quizSize = 15
   let questionPool: dbType[] = []
-  let rounds = pytaniaDb.db.length < 5 ? pytaniaDb.db.length : 5 // setting number of questions
+  let rounds = pytaniaDb.db.length < quizSize ? pytaniaDb.db.length : quizSize // setting number of questions
 
   if (stage === 1) {
     let rng = 0, safety = 0

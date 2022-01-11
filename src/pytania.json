@@ -1,97 +1,199 @@
-{ "db":
-    [
+{
+    "db": [
         {
-            "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
-            "correct": "Nitrogen",
+            "question": "Kto jest autorem słów: \"Wiem,że nic nie wiem \" ?",
+            "correct": "Sokrates",
             "answers": [
-                "Helium",
-                "Carbon",
-                "Hydrogen",
-                "Nitrogen"
+                "Homer",
+                "Arystoteles",
+                "Sokrates",
+                "Platon"
             ]
         },
         {
-            "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
-            "correct": "True",
+            "question": "Kto jest twórcą klasycznej koncepcji trójpodziału władzy",
+            "correct": "Monteskiusz",
             "answers": [
-                "False",
-                "True"
+                "Monteskiusz",
+                "Kartezjusz",
+                "Konfucjusz",
+                "Platon"
             ]
         },
         {
-            "question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
-            "correct": "Kars",
+            "question": "Tales jest powszechnie uznawany za pierwszego filozofa i matematyka. Jaką szkołe założył?",
+            "correct": "jońską",
             "answers": [
-                "Kars",
-                "Erina Joestar",
-                "Santana",
-                "Wired Beck"
+                "platońską",
+                "jońską",
+                "polską",
+                "pitagorajską"
             ]
         },
         {
-            "question": "Which survivor in Left 4 Dead sacrificed themself to save the other survivors?",
-            "correct": "Bill",
+            "question": "Gdzie tradycyjną filozofią życia jest Tri Hita Karana?",
+            "correct": "na Bali",
             "answers": [
-                "Bill",
-                "Louis",
-                "Francis",
-                "Zoey"
+                "na Sri Lance",
+                "na Madagaskarze",
+                "na Jamajce",
+                "na Bali"
             ]
         },
         {
-            "question": "In the periodic table, Potassium&#039;s symbol is the letter K.",
-            "correct": "True",
+            "question": "Platon utworzył szkołę nazwaną Akademią. Prawda czy Fałsz ",
+            "correct": "Prawda",
             "answers": [
-                "False",
-                "True"
+                "Fałsz",
+                "Prawda"
             ]
         },
         {
-            "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
-            "correct": "Boomstick",
+            "question": "Jak nazywała się szkoła utworzona przez Arystotelesa?",
+            "correct": "Lyceum",
             "answers": [
-                "Boomstick",
-                "Bloomstick",
-                "Blastbranch",
-                "2-Pump Chump"
+                "Parnassus",
+                "Gymnasion",
+                "Uniwersytet",
+                "Lyceum"
             ]
         },
         {
-            "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
-            "correct": "False",
+            "question": "Kto jest autorem pracy filozoficznej \" Krytyka czystego rozumu\" ?",
+            "correct": "Immanuel Kant",
             "answers": [
-                "True",
-                "False"
+                "Immanuel Kant",
+                "Fryderyk Nietzsche"
             ]
         },
         {
-            "question": "Earth is located in which galaxy?",
-            "correct": "The Milky Way Galaxy",
+            "question": "Jak nazywany jest rzymski cesarz, Marek Aureliusz?",
+            "correct": "Filozof na tronie",
             "answers": [
-                "The Milky Way Galaxy",
-                "The Mars Galaxy",
-                "The Galaxy Note",
-                "The Black Hole"
+                "Filozof",
+                "Filozof na tronie",
+                "Cesarz na tronie",
+                "Filozof w ogrodzie"
             ]
         },
         {
-            "question": "What is the name of the alligator in Where&#039;s My Water?",
-            "correct": "Swampy",
+            "question": "Jakiej narodowości był filozof Immanuel Kant?",
+            "correct": "Niemieckiej",
             "answers": [
-                "Swampy",
-                "Cranky",
-                "Crocky",
-                "Justice"
+                "Polskiej",
+                "Francuskiej",
+                "Niemieckiej",
+                "Austriackiej"
             ]
         },
         {
-            "question": "In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?",
-            "correct": "Honey Trees",
+            "question": "Jak brzmiało filozoficzne przesłanie starożytnych epikurejczyków?",
+            "correct": "carpe diem",
             "answers": [
-                "Honey Trees",
-                "Trading with an NPC",
-                "Grass on Route 209",
-                "Wayward Cave"
+                "homo homini lupus",
+                "nihili novi sub sole",
+                "errare humanum est",
+                "carpe diem"
+            ]
+        },
+        {
+            "question": "Kto jest autorem Imperatywu Kategorycznego?",
+            "correct": "Immanuel Kant",
+            "answers": [
+                "Immanuel Kant",
+                "Konfucjusz",
+                "Sokrates",
+                "Platon"
+            ]
+        },
+        {
+            "question": "Co oznacza termin \"Majeutyka\"?",
+            "correct": "sztuka położnicza",
+            "answers": [
+                "Ogrody świata",
+                "Śpiew",
+                "Sztuka położnicza",
+                "Sztuka walki"
+            ]
+        },
+        {
+            "question": "JKtóry krcki filozof stworzył termmin Majeutyka?",
+            "correct": "Sokrates",
+            "answers": [
+                "Platon",
+                "Sokrates",
+                "Konfucjusz",
+                "Pitagoras"
+            ]
+        },
+        {
+            "question": "Kto napisał powieść \"Nowa Atlantyda\"?",
+            "correct": "Francis Bacon",
+            "answers": [
+                "Platon",
+                "Baruch Spinoza",
+                "John Lock",
+                "Francis Bacon"
+            ]
+        },
+        {
+            "question": "Z jakiego mista pochodził Arystoteles?",
+            "correct": "Ze Stagiry",
+            "answers": [
+                "Ze Stagiry",
+                "Z Aten",
+                "Z Dodony",
+                "Z Rzymu"
+            ]
+        },
+        {
+            "question": "Ile jest tzw. brył platońskich?",
+            "correct": "5",
+            "answers": [
+                "5",
+                "7",
+                "12",
+                "6"
+            ]
+        },
+        {
+            "question": "Jak brzmiało filozoficzne przesłanie starożytnych epikurejczyków?",
+            "correct": "carpe diem",
+            "answers": [
+                "homo homini lupus",
+                "nihili novi sub sole",
+                "errare humanum est",
+                "carpe diem"
+            ]
+        },
+        {
+            "question": "Sangwinik to osoba?",
+            "correct": "O optymistycznym podejściu do życia",
+            "answers": [
+                "Romantyk",
+                "Pesymista",
+                "O optymistycznym podejściu do życia",
+                "Melancholik"
+            ]
+        },
+        {
+            "question": "Na terenie którego obecnie kraju urodził się Arthur Schopenhauer?",
+            "correct": "Polski",
+            "answers": [
+                "Polski",
+                "Niemiec",
+                "Francji",
+                "Litwy"
+            ]
+        },
+        {
+            "question": "Jak nazywa się pogląd filozoficzny utożsamiający wszechświat z Bogiem ?",
+            "correct": "Panteizm",
+            "answers": [
+                "Panteizm",
+                "Teologizm",
+                "Pantantyzm",
+                "Filozofia"
             ]
         }
     ]
