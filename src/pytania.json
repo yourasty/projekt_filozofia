@@ -117,7 +117,7 @@
             ]
         },
         {
-            "question": "JKtóry krcki filozof stworzył termmin Majeutyka?",
+            "question": "Który grecki filozof stworzył termmin Majeutyka?",
             "correct": "Sokrates",
             "answers": [
                 "Platon",
@@ -194,6 +194,17 @@
                 "Teologizm",
                 "Pantantyzm",
                 "Filozofia"
+            ]
+        }
+        ,
+        {
+            "question": "Kto jest autorem formuły głoszącej, że jeśli norma prawna w drastyczny sposób łamie podstawowe normy moralne, to nie obowiązuje? (Lex iniustissima non est lex)",
+            "correct": "Gustav Radbruch",
+            "answers": [
+                "Gustav Radbruch",
+                "Friedrich Nietzsche",
+                "Friedrich Engels",
+                "Karl Marx"
             ]
         }
     ]
