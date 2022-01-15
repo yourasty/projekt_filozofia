@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/projekt_filozofia/static/css/main.9e574917.css",
-    "main.js": "/projekt_filozofia/static/js/main.d6358c75.js",
+    "main.css": "/projekt_filozofia/static/css/main.c63241ab.css",
+    "main.js": "/projekt_filozofia/static/js/main.13cb5583.js",
     "static/media/end.png": "/projekt_filozofia/static/media/end.1b5b6e8c1c7cbb762b16.png",
     "static/media/pytanie.png": "/projekt_filozofia/static/media/pytanie.1b5b6e8c1c7cbb762b16.png",
     "static/media/start.png": "/projekt_filozofia/static/media/start.1b5b6e8c1c7cbb762b16.png",
     "index.html": "/projekt_filozofia/index.html",
-    "main.9e574917.css.map": "/projekt_filozofia/static/css/main.9e574917.css.map",
-    "main.d6358c75.js.map": "/projekt_filozofia/static/js/main.d6358c75.js.map"
+    "main.c63241ab.css.map": "/projekt_filozofia/static/css/main.c63241ab.css.map",
+    "main.13cb5583.js.map": "/projekt_filozofia/static/js/main.13cb5583.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e574917.css",
-    "static/js/main.d6358c75.js"
+    "static/css/main.c63241ab.css",
+    "static/js/main.13cb5583.js"
   ]
 }
