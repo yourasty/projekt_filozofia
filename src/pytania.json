@@ -206,6 +206,264 @@
                 "Friedrich Engels",
                 "Karl Marx"
             ]
+        },
+        {
+            "question": "Termin \"filozofia\" tłumaczy się z języka greckiego jako:",
+            "correct": "Umiłowanie mądrości",
+            "answers": [
+                "Znajomość wszechrzeczy",
+                "Umiłowanie mądrości",
+                "Mądrość myśli",
+                "Poznanie bytu"
+            ]
+        },
+        {
+            "question": "Ten światopogląd religijno-filozoficzny głosi możliwość uzyskania bezpośredniego kontaktu człowieka ze światem nadprzyrodzonym. Mowa o:",
+            "correct": "Teozofii",
+            "answers": [
+                "Fenomenologii",
+                "Teozofii",
+                "Idealizmie",
+                "Teologii"
+            ]
+        },
+        {
+            "question": "\"Tolerancja musi być nietolerancyjna wobec nietolerancji\" powiedział:",
+            "correct": "Immanuel Kant",
+            "answers": [
+                "Zenon z Elei",
+                "Zenon z Kition",
+                "Immanuel Kant",
+                "Plutarch"
+            ]
+        },
+        {
+            "question": "Ten dział logiki dzieli się na syntaktykę, semantykę i pragmatykę. Mowa o:",
+            "correct": "Semiotyce logicznej",
+            "answers": [
+                "Ideologii znaczenia",
+                "Semiotyce logicznej",
+                "Lingwistyce teoretycznej",
+                "Teorii poznania"
+            ]
+        },
+        {
+            "question": "\"Sprawiedliwie nie oznacza po równo\" rzecze:",
+            "correct": "Tomasz z Akwinu",
+            "answers": [
+                "Plotyn",
+                "Umberto Eco",
+                "Tomasz z Akwinu",
+                "Włodziemierz Sedlak"
+            ]
+        },
+        {
+            "question": "Był uczniem Sokratesa. Twierdził, że dusza jest nieśmiertelna i posiada doskonałą wiedzę o świecie idei. Mowa o:",
+            "correct": "Platonie",
+            "answers": [
+                "Plutarchu",
+                "Horacym",
+                "Platonie",
+                "Archimedesie"
+            ]
+        },
+        {
+            "question": "Relacjami między poznawaniem, poznaniem a rzeczywistością zajmuje się:",
+            "correct": "Wszystkie odpowiedzi są poprawne",
+            "answers": [
+                "Gnoseologia",
+                "Wszystkie odpowiedzi są poprawne",
+                "Teoria poznania",
+                "Epistemologia"
+            ]
+        },
+        {
+            "question": "Agnostycyzm to:",
+            "correct": "Pogląd, wg którego niemożliwe jest całkowite poznanie rzeczywistości",
+            "answers": [
+                "Pogląd, wg którego niemożliwe jest całkowite poznanie rzeczywistości",
+                "Rozdział nauki i polityki od Kościoła i teologii",
+                "Proces przypominania sobie wrodzonej wiedzy",
+                "Postawa bezinteresownej troski o dobro innych ludzi"
+            ]
+        },
+        {
+            "question": "Determinizm to:",
+            "correct": "Koncepcja, wg której wszystkie zdarzenia w ramach przyjętych paradygmatów są połączone związkiem przyczonowo-skutkowym",
+            "answers": [
+                "Koncepcja, wg której wszystkie zdarzenia w ramach przyjętych paradygmatów są połączone związkiem przyczonowo-skutkowym",
+                "Bezkrytyczne przyjmowanie pewnych poglądów",
+                "Pogląd, wg którego poznanie jest zależne od doświadczenia",
+                "Inaczej dwuczłonowość"
+            ]
+        },
+        {
+            "question": "Utylitaryzm to:",
+            "correct": "Pogląd, wg którego najwyższym dobrem jest pożytek jednostki bądź społeczeństwa",
+            "answers": [
+                "Pogląd, wg którego najwyższym dobrem jest pożytek jednostki bądź społeczeństwa",
+                "Pogląd, wg którego źródłem wiedzy są wrażenia zmysłowe",
+                "Pogląd, wg którego wszystkie wartości mają charakter względny",
+                "Koncpecja przyjmująca za punkt wyjścia problematykę osobowości"
+            ]
+        },
+        {
+            "question": "Stoicyzm to:",
+            "correct": "Doktryna etyczna głosząca życie zgodne z rozumem i opanowanie namiętności",
+            "answers": [
+                "Łączenie w całość sprzecznych poglądów",
+                "Doktryna etyczna głosząca życie zgodne z rozumem i opanowanie namiętności",
+                "Nauka o istocie prawdy i fałszu",
+                "Pogląd, wg którego natura bytu jest jednorodna"
+            ]
+        },
+        {
+            "question": "Panteizm to:",
+            "correct": "Pogląd utożsamiający wszechświat z Bogiem (absolutem)",
+            "answers": [
+                "Przeciwieństwo absolutyzmu",
+                "Pogląd przyjmujący doskonałość za największe dobro moralne",
+                "Pogląd utożsamiający wszechświat z Bogiem (absolutem)"	
+            ]
+        },
+        {
+            "question": "Sceptyzm to:",
+            "correct": "Pogląd podważający pełną wiarygodność ludzkiego poznania",
+            "answers": [
+                "Teoria powszechnej zmienności",
+                "Pogląd podważający pełną wiarygodność ludzkiego poznania",
+                "Zespoł ogólnych przekonań dotyczących natury świata",
+                "Inne określenie ateizmu"
+            ]
+        },
+        {
+            "question": "Idealizm to:",
+            "correct": "Pogląd, wg którego duch jest pierwotny, a materia wtórna",
+            "answers": [
+                "Pogląd, wg którego duch jest pierwotny, a materia wtórna",
+                "Pogląd, wg którego życie jest nieodłączne od materii",
+                "Pogląd, wg którego źródłem poznania jest oświecenie umysłu przez Boga",
+                "Bezwarunkowy nakaz moralny"
+            ]
+        },
+        {
+            "question": "Hedonizm to:",
+            "correct": "Pogląd, wg którego przyjemność jest jedynym dobrem i celem życia",
+            "answers": [
+                "Pogląd, wg którego materia jest pierwotna, a świadomość wtórna",
+                "Kontrola prawdziwości i zasadności twierdzeń przed ich uznaniem",
+                "Pogląd, wg którego przyjemność jest jedynym dobrem i celem życia"
+            ]
+        },
+        {
+            "question": "Cynizm to:",
+            "correct": "Pogląd, wg którego jedynym dobrem jest cnota, a reszta jest obojętna",
+            "answers": [
+                "Pogląd negujący istnienie siły wyższej",
+                "Pogląd, wg którego jedynym dobrem jest cnota, a reszta jest obojętna",
+                "Pogląd, wg którego władza jest źródłem degeneracji",
+                "Całokształt postaw i poglądów uznających zasadę dominacji całości nad częściami"
+            ]
+        },
+        {
+            "question": "Tworzeniem systemów moralnych i badaniem moralności zajmuje się:",
+            "correct": "Etyka",
+            "answers": [
+                "Retoryka",
+                "Etyka",
+                "Egzystencjalizm",
+                "Logika"
+            ]
+        },
+        {
+            "question": "Który filozof mieszkał w beczce?",
+            "correct": "Diogenes z Synopy",
+            "answers": [
+                "Zenon z Kition",
+                "Sokrates",
+                "Seneka Starszy",
+                "Diogenes z Synopy"
+            ]
+        },
+        {
+            "question": "Kto był autorem koncepcji socjalizmu naukowego?",
+            "correct": "Karol Marks",
+            "answers": [
+                "Karol Marks",
+                "Jürgen Habermas",
+                "Christian Wolff",
+                "Otto Bauer"
+            ]
+        },
+        {
+            "question": "Kto jest autorem słów \"Wiem, że nic nie wiem\"?",
+            "correct": "Sokrates",
+            "answers": [
+                "Konfucjusz",
+                "Platon",
+                "Arystoteles",
+                "Sokrates"
+            ]
+        },
+        {
+            "question": "Która doktryna filozoficzna zakładała, że źródłem poznania są bodźce dostarczane przez zmysły?",
+            "correct": "Empiryzm",
+            "answers": [		
+                "Hedonizm",
+                "Racjonalizm",
+                "Egzystencjalizm",
+                "Empiryzm"
+            ]
+        },
+        {	
+            "question": "Kto jest autorem koncepcji umowy społecznej?",
+            "correct": "Thomas Hobbes",
+            "answers": [
+                "Thomas Hobbes",
+                "Zenon z Kition",
+                "Straton",
+                "Seneka Młodszy"
+            ]
+        },
+        {
+            "question": "Kto stworzył klasyczną koncepcję trójpodziału władzy?",
+            "correct": "Monteskiusz",
+            "answers": [
+                "Jean-Jacques Rousseau",
+                "Kartezjusz",
+                "Galileusz",	
+                "Monteskiusz"
+            ]
+        },
+        {	
+            "question": "Który filozof wypowiedział te słowa? \"Z historii narodów możemy się nauczyć, że narody niczego nie nauczyły się z historii.\"",
+            "correct": "Georg Wilhelm Friedrich Hegel",
+            "answers": [
+                "Georg Wilhelm Friedrich Hegel",
+                "Seneka Młodszy",
+                "Francis Bacon",
+                "Teano"
+            ]
+        },
+        {	
+            "question": "Kto jest autorem tych słów? \"Nie udawajmy pochopnie, że jesteśmy \"samotni wśród tłumu ludzi\" – kiedy będziemy samotni naprawdę, zrozumiemy tę różnicę.\"",
+            "correct": "Leszek Kołakowski",
+            "answers": [
+                "Leszek Kołakowski",
+                "Friedrich Nietzsche",
+                "Tomasz Szmit",
+                "Ludwig Wittgenstein"
+            ]
+        },
+        {
+            "question": "Kto jest autorem tych słów? \"Powiedz mi, a zapomnę. Pokaż mi, a zapamiętam. Pozwól mi zrobić, a zrozumiem.\"",
+            "correct": "Konfucjusz",
+            "answers": [
+                "Konfucjusz",
+                "Carl Schmitt",
+                "Arystoteles",
+                "Platon"
+            ]
         }
     ]
 }

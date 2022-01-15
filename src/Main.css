@@ -62,7 +62,7 @@
 }
 
 .Pytanie-header{
-  min-height: 30vh;
+  min-height: 27vh;
   padding: 0.2vw;
 }
 
@@ -82,7 +82,7 @@
   background-color: #2f323f;
   border-radius: 1vh;
   border: none;
-  min-height: 5vh;
+  min-height: 7vh;
   width: 28vw;
   margin: 0.4vh;
   font-size: calc(5px + 2vmin);

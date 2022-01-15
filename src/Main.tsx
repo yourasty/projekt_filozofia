@@ -22,9 +22,11 @@ function Main() {
   const handleScore = () => { // score count 
     scoreRef.current++
   };
-  let quizSize = 15
+  let quizSize = 25
   let questionPool: dbType[] = []
   let rounds = pytaniaDb.db.length < quizSize ? pytaniaDb.db.length : quizSize // setting number of questions
+
+  console.log(pytaniaDb)
 
   if (stage === 1) {
     let rng = 0, safety = 0
