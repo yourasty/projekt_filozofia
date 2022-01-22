@@ -6,7 +6,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(5px + 1.2vmin);
+  font-size: calc(5px + 0.8vw);
   color: white;
 }
 
@@ -19,18 +19,18 @@
   background-color: #1d1f27;
   border-radius: 1.5vh;
   min-height: 70vh;
-  width: 60vw;
+  width: 67vw;
 }
 
 @media screen and (max-width: 1200px) {
   .Main-body {
-    width: 90vw;
+    width: 70vw;
   }
 }
 
 @media screen and (max-width: 800px) {
   .Main-body {
-    width: 98vw;
+    width: 80vw;
   }
 }
 
@@ -68,10 +68,11 @@
 
 .Pytanie-body {
   display: flex;
-  flex-flow: row wrap;
-  align-items: end;
+  flex-wrap: wrap;
+  align-items: stretch;
   justify-content: center;
   margin-bottom: 1vh;
+
 }
 
 .End-body, .Start-body {
@@ -79,13 +80,15 @@
 }
 
 .Btn {
+  flex-grow: 1;
   background-color: #2f323f;
-  border-radius: 1vh;
+  border-radius: 10px;
   border: none;
-  min-height: 7vh;
-  width: 28vw;
-  margin: 0.4vh;
-  font-size: calc(5px + 2vmin);
+  width: 32vw;
+  height: 95%;
+  margin: 0.8vh 0.4vw;
+  padding: 0.5vw;
+  font-size: calc(5px + 1.4vmin);
   color: #c1c8c9;
   cursor: pointer;
 }

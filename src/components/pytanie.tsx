@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import dbType from '../interface';
 import Btn from './btn';
-import img from './img/pytanie.png'
+import img from './img/img.png'
 
 type prop = {
   db: dbType[],
